@@ -1,0 +1,150 @@
+
+html
+{
+    background-color: #222;
+}
+
+body p, footer, p
+{
+    color: #DDD;
+    text-align: center;
+    font-family: "Trirong", sans-serif;
+    font-size: 1.6em;
+    padding: 2.5%;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 0.5%;
+    width: 70%;
+}
+
+body h1
+{
+    color: #DDD;
+    text-align: center;
+    font-family: "Trirong", sans-serif;
+    font-size: 5em;
+    padding: 3%;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 0.5%;
+    width: 70%;
+}
+
+body h2
+{
+    color: #DDD;
+    text-align: center;
+    font-family: "Trirong", sans-serif;
+    font-size: 3em;
+    padding: 2.5%;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 0.5%;
+    width: 70%;
+}
+
+body h3
+{
+    color: #DDD;
+    text-align: center;
+    font-family: "Trirong", sans-serif;
+    font-size: 2em;
+    padding: 2.5%;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 0.5%;
+    width: 70%;
+}
+
+body ul
+{
+    width: 65%;
+    list-style-type: none;
+    background-color: #333;
+    border: 1px #EDD118 solid;
+    border-radius: 20px;
+    margin: auto;
+}
+
+body ol
+{
+    color: #DDD;
+    text-align: center;
+    font-family: "Trirong", sans-serif;
+    font-size: 1.6em;
+    padding: 3%;
+    margin: auto;
+    margin-top: 0px;
+    width: 70%;
+}
+
+body ol li
+{
+    padding: 1.5%;
+}
+
+body a, footer a
+{
+    color: white;
+    font-family: "Trirong", sans-serif;
+    font-weight: 200;
+    font-size: 1em;
+    text-decoration: none;
+}
+
+figcaption
+{
+    color: #ddd;
+    font-size: 1em;
+    font-family: "Trirong", sans-serif;
+    margin-top: 15px;
+    style: italic;
+    text-align: center;
+}
+
+img
+{
+    display: block;
+    margin: auto;
+    margin-top: 3%;
+    margin-bottom: 0px;
+    filter: drop-shadow(-15px 15px 2px #111);
+}
+
+.step
+{
+    border: 2px solid #ccc;
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 3%;
+    width: 80%;
+}
+
+.bordered
+{
+    color: #DDD;
+    text-align: center;
+    border: 2px solid #ccc;
+    border-radius: 25px;
+    font-family: "Trirong", sans-serif;
+    font-size: 1.6em;
+    padding: 2.5%;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 2.5%;
+    width: 60%;
+}
+
+.greentext
+{
+    color: #78B2BA;
+    border: 2px solid #488C96;
+    border-radius: 10px;
+}
+
+.bluetext
+{
+    color: #8696C5;
+    border: 2px solid #586BA5;
+    border-radius: 10px;
+}
